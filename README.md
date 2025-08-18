@@ -19,7 +19,10 @@
   *Campfire School* | `02/2024 - 05/2024`  
 
 - <img src="https://skillicons.dev/icons?i=ts,react" width="40"/> **[TypeScript + React](https://campfire-school.com/courses/polnyy-kurs-po-typescript-react)**  
-  *Campfire School* | `06/2025 - 08/2025`  
+  *Campfire School* | `06/2025 - 08/2025`**
+
+## 🚀 Мои проекты
+
 
 ## 📈 Моя статистика GitHub
 
