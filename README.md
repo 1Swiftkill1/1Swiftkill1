@@ -33,6 +33,25 @@
   ![React](https://img.shields.io/badge/-React-61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
   ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white)
 
+- **[Фитнес-клуб "Flex Force"](https://github.com/1Swiftkill1/fitnesss1)**  
+  **SPA для клиентов и администраторов** с полным циклом услуг:
+  - 🔐 Система аутентификации (регистрация/авторизация)
+  - 💳 Онлайн-бронирование клубных карт
+  - 🏋️‍♂️ Запись на групповые и индивидуальные тренировки
+  - 📅 Личный кабинет с историей посещений
+  - ⚙️ Админ-панель для управления расписанием и клиентами
+
+  **Frontend:**  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?logo=react&logoColor=black)
+
+  **Backend:**  
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+  ![DRF](https://img.shields.io/badge/-DRF-092E20?logo=django&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+  [🚀 Демо](#) | [📖 Документация](#)  <!-- Добавьте ссылки при наличии -->
+
 ## 📈 Моя статистика GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Swiftkill1&layout=compact&theme=radical)](https://github.com/1Swiftkill1)
