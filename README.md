@@ -50,7 +50,6 @@
   ![DRF](https://img.shields.io/badge/-DRF-092E20?logo=django&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-  [🚀 Демо](#) | [📖 Документация](#)  <!-- Добавьте ссылки при наличии -->
 
 ## 📈 Моя статистика GitHub
 
