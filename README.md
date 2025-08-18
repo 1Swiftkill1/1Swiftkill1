@@ -6,7 +6,7 @@
 
 ## 🛠 Мой стек технологий
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,git,figma,webpack,gulp" />
 </div>
 
