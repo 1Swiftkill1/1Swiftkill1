@@ -31,12 +31,15 @@
   
   ![React](https://img.shields.io/badge/-React-61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)  
 
-- [Административная панель на React](https://github.com/1Swiftkill1/hero_admin_panel_react-reduxjs-toolkit-RTK-Query)  
-  Административная панель для управления героями с помощью Redux Toolkit Query (RTK Query).  
+- [Административная панель на React](https://github.com/1Swiftkill1/hero_admin_panel_react-reduxjs-toolkit-RTK-Query)
+
+  Административная панель для управления героями с помощью Redux Toolkit Query (RTK Query).
+    
   ![React](https://img.shields.io/badge/-React-61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  
   ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white)  
 
-- [Фитнес-клуб "Flex Force"](https://github.com/1Swiftkill1/fitnesss1)  
+- [Фитнес-клуб "Flex Force"](https://github.com/1Swiftkill1/fitnesss1)
+  
   SPA для клиентов и администраторов с полным циклом услуг:  
   - 🔐 Система аутентификации (регистрация/авторизация)  
   - 💳 Онлайн-бронирование клубных карт  
