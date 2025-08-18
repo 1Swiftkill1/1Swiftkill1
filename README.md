@@ -17,7 +17,6 @@
 
 ## 📈 Моя статистика GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Swiftkill1&show_icons=true&theme=radical)](https://github.com/ВАШ_НИК)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Swiftkill1&layout=compact&theme=radical)](https://github.com/1Swiftkill1)
 
 
