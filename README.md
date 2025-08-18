@@ -7,7 +7,7 @@
 ## 🛠 Мой стек технологий
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,git,figma,webpack,gulp" />
 </div>
 
 ## 📈 Моя статистика GitHub
