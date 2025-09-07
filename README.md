@@ -25,11 +25,13 @@
 
 ### 🛠 Пет-проекты  
 
-- [Todo-приложение на React](https://github.com/1Swiftkill1/Todo-list)
- 
-  Простое приложение для управления задачами, созданное с использованием React и TS.
-  
+- [**Beauty Admin Panel**](https://github.com/1Swiftkill1/Beauty-Admin-Panel) - 💅 Профессиональный планировщик записей для салонов красоты  
   ![React](https://img.shields.io/badge/-React-61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)  
+  ![React Router](https://img.shields.io/badge/-React_Router-CA4245) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699)
+  ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)  
+  
+  **Особенности:** Полный CRUD, фильтрация по датам, анимированные модальные окна, реальное время обновления    
 
 - [Административная панель на React](https://github.com/1Swiftkill1/hero_admin_panel_react-reduxjs-toolkit-RTK-Query)
 
