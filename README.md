@@ -10,6 +10,23 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,git,figma,webpack,gulp,postman,vite,nextjs,json,wordpress,reactquery,formik,yup,zod,reacthookform" />
 </div>  
 
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Forms & Validation
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Formik](https://img.shields.io/badge/-Formik-0051BA?style=for-the-badge&logo=formik&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Yup](https://img.shields.io/badge/-Yup-61DAFB?style=for-the-badge)
+
+### Tools
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 📚 Обучение  
 
 - <img src="https://img.icons8.com/color/16/000000/code.png"/> [Web-разработчик](https://campfire-school.com/courses/web-developer)  
