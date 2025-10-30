@@ -8,6 +8,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,git,figma,webpack,gulp,postman,vite,nextjs,json,wordpress,reactquery,formik,yup,zod,reacthookform" />
+  ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 </div>  
 
 ## 📚 Обучение  
