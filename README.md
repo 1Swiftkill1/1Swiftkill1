@@ -7,7 +7,7 @@
 ## 🛠 Мой стек технологий  
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,git,figma,webpack,gulp,postman,vite,nextjs,json,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,git,figma,webpack,gulp,postman,vite,nextjs,json,wordpress,reactquery,formik,yup,zod,reacthookform" />
 </div>  
 
 ## 📚 Обучение  
