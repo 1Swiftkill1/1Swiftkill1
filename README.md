@@ -58,10 +58,6 @@
   ![DRF](https://img.shields.io/badge/-DRF-092E20?logo=django&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
 
-## 📈 Моя статистика GitHub  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Swiftkill1&layout=compact&theme=radical)](https://github.com/1Swiftkill1)  
-
 ## 📫 Как со мной связаться  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Swiftkill)  
