@@ -25,7 +25,7 @@
 
 ### 🛠 Пет-проекты  
 
-- [**Beauty Admin Panel**](https://github.com/1Swiftkill1/Beauty-Admin-Panel) - 💅 Профессиональный планировщик записей для салонов красоты
+- [**Beauty Admin Panel**](https://github.com/1Swiftkill1/Beauty-Admin-Panel) - Профессиональный планировщик записей для салонов красоты
 - 
   ![React](https://img.shields.io/badge/-React-61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)  
   ![React Router](https://img.shields.io/badge/-React_Router-CA4245) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699)
